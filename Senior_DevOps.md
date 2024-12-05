@@ -1,12 +1,12 @@
-**Senior DevOps Engineer**
-**Job Description**
-**Job Title:** Senior DevOps Engineer
-**Location:**  Remote
-**Job Type:** Full-Time
-**Contact:** Andrii Belas (@andriibelas at TG)
+**Senior DevOps Engineer**  
+**Job Description**  
+**Job Title:** Senior DevOps Engineer  
+**Location:**  Remote  
+**Job Type:** Full-Time  
+**Contact:** Andrii Belas (@andriibelas at TG)  
 **Salary range:** 4000-8000$
 
-**About us**
+**About us**  
 We are a specialized design bureau operating in the private equity domain, dedicated to driving innovation and development across a diverse portfolio of companies owned by our group of investors. Our team delivers value through three core pillars:
 1. **Long-term Project Development**
 We execute and support extensive projects in the physical and digital realms, ranging from ski resorts and clinics to enterprise-level CRM systems.
