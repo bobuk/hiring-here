@@ -1,25 +1,17 @@
 **Senior DevOps Engineer**
-
 **Job Description**
-
 **Job Title:** Senior DevOps Engineer
-
 **Location:**  Remote
-
 **Job Type:** Full-Time
-
 **Contact:** Andrii Belas (@andriibelas at TG)
-
-**Salary range:** 3000-6000$
+**Salary range:** 4000-8000$
 
 **About us**
-
 We are a specialized design bureau operating in the private equity domain, dedicated to driving innovation and development across a diverse portfolio of companies owned by our group of investors. Our team delivers value through three core pillars:
-
 1. **Long-term Project Development**
 We execute and support extensive projects in the physical and digital realms, ranging from ski resorts and clinics to enterprise-level CRM systems.
 2. **Research and Rapid Prototyping**
-We explore cutting-edge technologies, delivering proof-of-concept solutions to accelerate innovation in AI applications and other emerging domains.
+We explore cutting-edge technologies, providing proof-of-concept solutions to accelerate innovation in AI applications and other emerging domains.
 3. **Secure Infrastructure Deployment and Maintenance**
 Our platform team ensures robust, scalable, and secure infrastructure for ongoing operations across the group's businesses and startups.
 
@@ -41,7 +33,6 @@ As a DevOps Engineer, you will be a key player in our Platform team.
 
 
 **Qualifications**
-- Bachelor's or Master’s degree in Computer Science, Engineering, or a related field.
 - 3+ years of experience in DevOps or related roles (SRE/Cloud Engineer/Infrastructure Engineer, etc).
 - Strong experience with cloud platforms such as AWS, GCP, or Azure (AWS preferred). Experience with on-prem is also very helpful.
 - Proficiency in Bash for Linux administration on Virtual Machines
@@ -57,6 +48,7 @@ As a DevOps Engineer, you will be a key player in our Platform team.
 Excellent communication and collaboration skills
 
 **Preferred Qualifications:**
+-  Bachelor's or Master’s degree in Computer Science, Engineering, or a related field.
 - Experience working in startups or fast-paced environments.
 - Experience in Python for infrastructure and API Development.
 - Experience with SQL for data management
