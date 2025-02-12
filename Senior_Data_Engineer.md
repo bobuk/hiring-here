@@ -18,29 +18,34 @@ In essence, we are an R&D powerhouse supporting the technological and operationa
 As a Senior Data Engineer, you will be a key player in our Platform team. You will ensure that all data pipelines run smoothly across our businesses and that all data warehouses are safe, secure, and optimized, so analytics and business intelligence teams have efficient data access.
 
 **Responsibilities**  
-- Develop and maintain data models and transformations inside **PostgreSQL** database and **ClickHouse** data warehouse, ensuring efficient data storage and retrieval to support analytics and reporting.
+- Develop and maintain data models and transformations inside **PostgreSQL** database and **ClickHouse** data warehouse, ensuring scalability, efficient data storage and retrieval to support analytics and reporting.
+- Interacting with portfolio companies to collect data and organize its transfer to a centralized storage on **Amazon S3**.
 - Design, build, and maintain scalable data pipelines using **Airflow** and **dbt**.
-- Monitor and troubleshoot data workflows, ensuring data quality, integrity and consistency.
-- Participate in the future integration of our data platform with cloud environments, particularly AWS.
-- Work closely with analysts and stakeholders to deliver insights through effective data visualizations in **Tableau** and **Superset**.
+- Monitor and troubleshoot data workflows, ensuring data integrity and consistency.
+- Maintain data quality, by implementing necessary automated validation processes.
+- Create efficient data processing jobs using **Python**.
+- Work closely with analysts, BI developers and business stakeholders to deliver insights through effective reporting systems with data visualizations in **Tableau** and **Superset**.
+- Focus on automating processes and minimizing manual intervention, striving to build an effective system with a minimum number of connected human resources.
 - Stay up-to-date with the latest developments in Data Engineering and cloud technologies.
 
 **Qualifications**  
-- 3+ years of experience in data engineering.
+- 5+ years of experience as a Data Engineer.
 - Strong **SQL** skills and familiarity with data warehousing concepts.
-- Strong experience with **PostgreSQL** and **ClickHouse**, including data modeling and query optimization.
+- Strong experience with **PostgreSQL** and **ClickHouse**, including data modeling and complex query execution and optimization.
 - Strong experience with **Python** for data processing and automation tasks.
-- Strong experience with **Airflow** for orchestrating workflows.
+- Strong experience with **Airflow** for orchestrating ETL processes.
 - Experience with **dbt** for data quality and transformations.
-- Experience with BI tools such as **Tableau** and **Superset**.
 - Experience working in on-premise environments with an understanding of cloud integration challenges.
+- Experience with AWS or Google Cloud, especially with cloud data warehouses.
 - Strong problem-solving skills and attention to detail.
 - Ability to collaborate with cross-functional teams, including data analysts, engineers, and business stakeholders.
 
 **Preferred Qualifications:**  
--  Bachelor's or Master’s degree in Computer Science, Engineering, or a related field.  
--  Experience working in startups or fast-paced environments.
-- Experience with **Kafka**, **Flink** or other streaming technologies for real-time data pipelines.
+- Bachelor's or Master's degree in Computer Science, Engineering, or a related field.  
+- Experience working in startups or fast-paced environments.
+- Experience working in the iGaming industry ecosystem.
+- Experience with **Kafka**, **Flink** or other streaming technologies for design and support real-time data pipelines.
+- Experience with BI tools such as **Tableau** and **Superset**.
 - Knowledge of analytical patterns and data visualization best practices.
 - Knowledge of data governance and security frameworks.
 - Knowledge of CI/CD pipelines for data engineering.
