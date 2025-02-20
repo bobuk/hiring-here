@@ -2,8 +2,9 @@
 
 В этом репозитории будут размещены мои открытые вакансии с описаниями. В каждом файле будет указан отдельный контакт, к кому можно обращаться, но в целом, я читаю все пуллреквесты и ишьюзы, любая активность приветствуется. Все эти вакансии мои, то есть работа в компаниях, где я так или иначе участвую.
 
-- [Девопс](Senior_DevOps.md)
-- [Фуллстек](Senior_Software_Engineer.md)
+- [IT System and Security Administrator](SysAdmin_SecOps.md)
+- [Senior Data Engineer](Senior_Data_Engineer.md)
+- [Senior Mobile Engineer](Senior_Mobile_Engineer.md)
 
 # общие правила для документов
 

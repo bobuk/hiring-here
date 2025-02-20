@@ -3,7 +3,7 @@
 **Job Title:** Senior Data Engineer  
 **Location:** Remote  
 **Job Type:** Full-Time  
-**Contact:** Andrii Belas (@andriibelas at TG)  
+**Contact:** Illia Lubenets (@L0ndra on TG)
 **Salary Range:** 4000-8000$  
 
 **About Us**  
