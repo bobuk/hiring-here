@@ -1,6 +1,6 @@
 # IT System and Security Administrator (SysAdmin/SecOps)  
 
-**Location:** Cyprus  
+**Location:** Cyprus(relocation available)  
 **Job Type:** Full-Time  
 **Contact:** Illia Lubenets (@L0ndra on TG)  
 **Salary Range:** $3000–$5000  
