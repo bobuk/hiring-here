@@ -65,7 +65,7 @@ We are looking for a **Senior DevOps Engineer** to join our Platform team. You w
 ### Education and Experience  
 
 - Bachelor's degree in Computer Science, Information Technology, or a related field.  
-- 5+ years of experience in DevOps, system administration, and infrastructure engineering.  
+- 5+ years of experience in DevOps, system administration, infrastructure and cloud engineering.  
 
 ### Technical Expertise  
 
