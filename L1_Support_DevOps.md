@@ -2,7 +2,7 @@
 
 **Location:** Remote
 **Job Type:** Full-Time, shift-based (8-hour rotating shifts)
-**Contact:** Illia Lubenets (@L0ndra on TG)
+**Contact:** Vitali Bicov (@himaster on TG)
 **Salary Range:** $900–$1500
 
 ---
