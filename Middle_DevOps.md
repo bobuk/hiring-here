@@ -1,8 +1,8 @@
 # Middle DevOps Engineer
 
-**Location:** Remote
-**Job Type:** Full-Time
-**Contact:** Vitali Bicov (@himaster on TG)
+**Location:** Remote   
+**Job Type:** Full-Time   
+**Contact:** Vitali Bicov (@himaster on TG)   
 **Salary Range:** $2500–$4500
 
 ---
