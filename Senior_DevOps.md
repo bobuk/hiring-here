@@ -1,8 +1,8 @@
 # Senior DevOps Engineer
 
-**Location:** Remote
-**Job Type:** Full-Time
-**Contact:** Illia Lubenets (@L0ndra on TG)
+**Location:** Remote   
+**Job Type:** Full-Time   
+**Contact:** Illia Lubenets (@L0ndra on TG)   
 **Salary Range:** $4000–$8000
 
 ---
