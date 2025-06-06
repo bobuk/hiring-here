@@ -21,7 +21,7 @@ In essence, we are an R&D powerhouse supporting the technological and operationa
 
 ## Role Overview  
 
-We are looking for a **Middle DevOps Engineer** to join our Platform team. You will be responsible for ensuring that all infrastructure is running smoothly and efficiently, and for providing support to the development team.
+We are looking for a **Middle DevOps Engineer** to join our Platform team. You will be responsible for ensuring that all infrastructure is running smoothly and efficiently, and for providing support to the development team. The focus of the role is on bare-metal environments, virtualization, and classic system administration, experience with cloud platforms is a plus.
 
 ---
 
@@ -65,15 +65,16 @@ We are looking for a **Middle DevOps Engineer** to join our Platform team. You w
 ### Education and Experience  
 
 - Bachelor's degree in Computer Science, Information Technology, or a related field.  
-- 2–4 years of experience in DevOps and cloud engineering.  
+- 2–4 years of experience in DevOps, system administration, infrastructure and cloud engineering.  
 
 ### Technical Expertise  
 
-- Experience with cloud services (AWS, Google Cloud, etc.).  
-- Proficient in Linux system administration.  
-- Familiar with containerization and orchestration (Docker, Kubernetes).  
-- Experience with monitoring and logging tools (Prometheus, Grafana, etc.).  
-- Solid scripting skills (Python, Bash).  
+- Proficient in Linux system administration.
+- Experience managing on-prem servers, virtualization platforms, and networking.
+- Experience with cloud services (AWS, Google Cloud, etc.).
+- Familiar with containerization and orchestration (Docker, Kubernetes).
+- Experience with monitoring and logging tools (Prometheus, Grafana, etc.).
+- Scripting skills (Python, Bash).  
 
 ### Security and Compliance
 
