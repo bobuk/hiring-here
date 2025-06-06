@@ -1,8 +1,8 @@
 # L1 Support DevOps Engineer
 
-**Location:** Remote
-**Job Type:** Full-Time, shift-based (8-hour rotating shifts)
-**Contact:** Vitali Bicov (@himaster on TG)
+**Location:** Remote   
+**Job Type:** Full-Time, shift-based (8-hour rotating shifts)   
+**Contact:** Vitali Bicov (@himaster on TG)   
 **Salary Range:** $900–$1500
 
 ---
