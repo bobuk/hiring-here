@@ -63,8 +63,7 @@ We are looking for a **Middle DevOps Engineer** to join our Platform team. You w
 ## Qualifications  
 
 ### Education and Experience  
-
-- Bachelor's degree in Computer Science, Information Technology, or a related field.  
+ 
 - 2–4 years of experience in DevOps, system administration, infrastructure and cloud engineering.  
 
 ### Technical Expertise  
